@@ -1,0 +1,10 @@
+n_context = zeros(size_contexts,num_rats);
+n_flavor = zeros(size_flavors,num_rats);
+n_multimodal = zeros(size_multimodal,num_rats);
+n_well = zeros(size_wells,num_rats);
+n_context_pattern = zeros(size_context_pattern,num_rats);
+n_vhipp = zeros(size_vhipp,num_rats);
+n_dhipp = zeros(size_dhipp,num_rats);
+% Testing LC
+familiarity = zeros(1,num_rats);
+noveltyy = zeros(1,num_rats);
